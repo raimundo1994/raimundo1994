@@ -36,8 +36,7 @@
 <br>
 ## 📈 My GitHub Stats:
 
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=raimundo1994&show_icons=true&theme=tokyonight" alt="ShaTeixeira's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo1994&layout=compact&theme=tokyonight" alt="ShaTeixeira's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=raimundo1994&show_icons=true&theme=tokyonight" alt="raimundo1994 stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo1994&layout=compact&theme=tokyonight" alt="raimundo1994 most languages"/>
 </p>
  
-![Snake animation](https://github.com/shateixeira/shateixeira/blob/output/github-contribution-grid-snake.svg)&nbsp;
