@@ -13,7 +13,7 @@
 
 <p align="left"> 
   :computer: Academic experience in geophysics and geology, having worked in petrophysics with image processing and interpretation of geophysical, geoelectric survey profiles, seismology in the study of crustal evolution, programming language Python,MatLab,Bash and LaTex,focusing on image processing and geophysical data inversion seismological. Currently doing postgraduate studies in geophysics at the National Observatory of Rio de Janeiro.
-- 📄 A little about my academic career in the link beside (![lattes](http://lattes.cnpq.br/5355013713549584))
+- 📄 A little about my academic career in the link beside (http://lattes.cnpq.br/5355013713549584)
 </p>
   
 
