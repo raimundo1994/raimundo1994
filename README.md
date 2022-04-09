@@ -24,8 +24,8 @@
 <br>
 
 ## 🛠 Studying
-![Java](https://img.shields.io/badge/-Java-D14836-black?style=flat-square&logo=Java)
-![Python](https://img.shields.io/badge/Python-3776AB-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Python](https://img.shields.io/badge/-Python-black?logoColor=green&style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
