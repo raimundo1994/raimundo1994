@@ -3,10 +3,6 @@
 
  ![views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ShaTeixeira&repo=ShaTeixera&countColorcountColor)
 
-|   Languages   |
-|-----------|
-|[English](README.md)| 
-
 <br />
 
 📬 Contact
@@ -23,7 +19,8 @@
 
 <br>
 
-## 🛠 Studying
+## 🛠 Tools I use and study
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-black?logoColor=green&style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
@@ -35,20 +32,12 @@
 
 <br>
 
-## 🛠 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=html)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=css)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JAVASCRIPT&logoColor=javascript)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mySQL&logoColor=SQL)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&logoColor=PostgreSQL)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=Sass&logoColor=Sass)&nbsp;
 
 <br>
 ## 📈 My GitHub Stats:
 
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=ShaTeixeira&show_icons=true&theme=tokyonight" alt="ShaTeixeira's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaTeixeira&layout=compact&theme=tokyonight" alt="ShaTeixeira's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=raimundo1994&show_icons=true&theme=tokyonight" alt="ShaTeixeira's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo1994&layout=compact&theme=tokyonight" alt="ShaTeixeira's most languages"/>
 </p>
  
 ![Snake animation](https://github.com/shateixeira/shateixeira/blob/output/github-contribution-grid-snake.svg)&nbsp;
