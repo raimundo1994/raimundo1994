@@ -1,24 +1,18 @@
 <h1 align="left">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm Oscar.</h1>
 </h1>
 
-<br />
-<br />
-<br />
-
  ![views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ShaTeixeira&repo=ShaTeixera&countColorcountColor)
 
 |   Languages   |
 |-----------|
 |[English](README.md)| 
-|[Portuguese](readme_ptBR.md)| 
 
 <br />
 
 📬 Contact
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mailto:shayaneteixeira@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shay_teixeir02/)
-[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shayane-teixeira-4520b2196/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:raimundojunior@on.br)
+[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oscarfilho84672b103)
 
 
 <p align="left"> 
