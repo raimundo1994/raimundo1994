@@ -36,7 +36,5 @@
 <br>
 ## 📈 My GitHub Stats:
 
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=raimundo1994&show_icons=true&theme=tokyonight" alt="raimundo1994 stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo1994&layout=compact&theme=tokyonight" alt="raimundo1994 most languages"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raimundo1994&show_icons=true&locale=pt-br&layout=compact" alt="raimundo1994" /></p>
  
