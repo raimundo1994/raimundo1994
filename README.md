@@ -31,10 +31,3 @@
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 
 <br>
-
-
-<br>
-## 📈 My GitHub Stats:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raimundo1994&show_icons=true&locale=pt-br&layout=compact" alt="raimundo1994" /></p>
- 
