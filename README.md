@@ -16,36 +16,10 @@
 
 
 <p align="left"> 
-  :computer: In development, starting in the programming area. I'm 19 years old. Tecnico em Informática p/ Internet Integrado to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is a Bachelor's degree in Information Systems. My wish is to work with the front. Now I'm focused on React and C#, and starting UI/UX Designer course.
+  :computer: Academic experience in geophysics and geology, having worked in petrophysics with image processing and interpretation of geophysical, geoelectric survey profiles, seismology in the study of crustal evolution, programming language Python,MatLab,Bash and LaTex,focusing on image processing and geophysical data inversion seismological. Currently doing postgraduate studies in geophysics at the National Observatory of Rio de Janeiro.
+- 📄 A little about my academic career in the link beside [lattes](http://lattes.cnpq.br/5355013713549584)
 </p>
-   
-<!-- About -->
-
-## About Me
-  👩‍🎓 Final paper successfully finalized (project integrator, TCC).
-  <br />
-  🎓 More advanced skills on *JavaScript*. Pausing studies in *React.js*. 
-  <br />
-  🔆 Follow me on [Instagram](https://www.instagram.com/byte__dev/)
-  <br />
-  💻 Visit my projects [here](https://github.com/ShaTeixeira?tab=repositories)
-  <br />
-  🔷 Initiating studies *C#*.
-  <br />
-  💥 Like to play guitar and ukulele, read and watch series.
   
-<br>
-
-## 🛠 Tools
-![Git](https://img.shields.io/badge/-Git-B03624?style=for-the-badge&logo=GIT&logoColor=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-D14836?style=for-the-badge&logo=GITHUB&logoColor=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C8EBB?style=for-the-badge&logo=Visual-Studio-Code&logoColor=vscode)&nbsp;
-
-<br>
-
-## 🛠 Dependency Manager
-![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=for-the-badge&logo=Yarn&logoColor=Yarn)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-D14836?style=for-the-badge&logo=NPM&logoColor=NPM)&nbsp;
 
 <br>
 
