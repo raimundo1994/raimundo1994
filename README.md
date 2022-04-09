@@ -1,8 +1,5 @@
-<img align="right" height="500rem" src="preview/preview.png"/>
-
-<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm Shayane.</h1>
+<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm Oscar.</h1>
 </h1>
-<a href="https://shateixeira.github.io/">Visite o meu portfolio</a>
 
 <br />
 <br />
