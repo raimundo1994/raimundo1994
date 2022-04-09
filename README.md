@@ -24,9 +24,14 @@
 <br>
 
 ## 🛠 Studying
-![Java](https://img.shields.io/badge/-Java-D14836?style=for-the-badge&logo=Java&logoColor=java)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp
-![MatLab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)&nbsp
+![Java](https://img.shields.io/badge/-Java-D14836?style=for-the-badge&logo=Java&logoColor=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 
 <br>
 
