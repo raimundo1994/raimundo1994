@@ -27,5 +27,6 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 <br>
