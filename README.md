@@ -1,20 +1,19 @@
 <h1 align="left"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Oscar.</h1>
 </h1>
 
+<p align="center">
+  <samp> Bachelor of earth sciences and geophysics, having worked in petrophysics, image processing and interpretation of geophysical, geoelectric survey profiles, seismology, programming language experience Python,MatLab,and LaTex. Currently doing postgraduate studies in geophysics at the National Observatory of Rio de Janeiro.
+- 📄 A little about my academic career in the link beside (http://lattes.cnpq.br/5355013713549584).
+   
+</p>
+  </samp>
+  
 📬 Contact
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:raimundojunior@on.br)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oscarfilho84672b103)
 
-<h2 align="center"> </h2>
-<p align="center">
-  <samp>Academic experience in geophysics and geology, having worked in petrophysics with image processing and interpretation of geophysical, geoelectric survey profiles, seismology in the study of crustal evolution, programming language Python,MatLab,Bash and LaTex,focusing on image processing and geophysical data inversion seismological. Currently doing postgraduate studies in geophysics at the National Observatory of Rio de Janeiro.
-- 📄 A little about my academic career in the link beside (http://lattes.cnpq.br/5355013713549584).
-   
-</p>
-  </samp>
-  <br> <br>
-</p>
+
 
 ## 🛠 Tools I use and study
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
