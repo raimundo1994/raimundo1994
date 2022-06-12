@@ -1,4 +1,4 @@
-<h1 align="left">  I'm Oscar.</h1>
+<h1 align="left">  Hi, I'm Oscar.</h1>
 </h1>
 
 <p align="center">
