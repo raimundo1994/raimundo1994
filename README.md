@@ -2,7 +2,7 @@
 </h1>
 
 <p align="center">
-  <samp> Bachelor of earth sciences and geophysics, having worked in petrophysics, image processing and interpretation of geophysical, geoelectric survey profiles, seismology, programming language experience Python,MatLab,and LaTex. Currently doing postgraduate studies in geophysics at the National Observatory of Rio de Janeiro.
+  <samp> Bachelor of earth sciences and geophysics, having worked in petrophysics, image processing and interpretation of geophysical, geoelectric survey profiles, seismology, programming language experience Python,MatLab,and LaTex. Currently postgraduate studies in geophysics at the National Observatory of Rio de Janeiro.
 - 📄 A little about my academic career in the link beside (http://lattes.cnpq.br/5355013713549584).
    
 </p>
