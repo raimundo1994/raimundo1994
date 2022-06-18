@@ -7,6 +7,11 @@
    
 </p>
   </samp>
+ 
+<p align="center">
+  <samp>"Algumas pessoas leem "Guerra e Paz" e acham que é um simples romance. Outras pessoas leem os ingredientes em uma embalagem de chiclete e desvendam os segredos do universo." (Lex Luthor)
+ </p>
+  </samp>
   
 📬 Contact
 
