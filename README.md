@@ -41,5 +41,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white)
+![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+![qgis](https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
+![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 <br>
