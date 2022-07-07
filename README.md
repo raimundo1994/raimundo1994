@@ -9,7 +9,7 @@
   </samp>
  
 <p align="center">
-  <samp>"A obsessão ganha do talento todas as vezes (...)"
+  <samp>"A obsessão ganha do talento todas as vezes [...]"
  </p>
   </samp>
   
