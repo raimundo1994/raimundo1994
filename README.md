@@ -46,3 +46,5 @@
 ![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 <br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo1994&layout=compact&langs_count=16&theme=dracula"/>
