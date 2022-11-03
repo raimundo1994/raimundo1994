@@ -48,4 +48,4 @@
 <br>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo1994&layout=compact&langs_count=16&theme=dracula"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo1994&layout=compact&langs_count=4&theme=github_dark&show_icons=true"/>
