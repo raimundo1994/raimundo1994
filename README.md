@@ -1,4 +1,4 @@
-<h1 align="left">  Hi, I'm Oscar.</h1>
+<h1 align="left">  <samp>Hi, I'm Oscar</samp>.</h1>
 </h1>
 
 <p align="center">
@@ -10,14 +10,14 @@
  
 
   
-📬 Contact
+📬 <samp>Contact</samp>
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:raimundojunior@on.br)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oscarfilho84672b103)
 
 
 
-## 🛠 Tools I use and study
+## 🛠 <samp>Tools I use and study</samp>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
