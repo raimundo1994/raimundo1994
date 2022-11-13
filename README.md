@@ -10,10 +10,7 @@
 📄 <samp>Resume: https://github.com/raimundo1994/CV/blob/main/CV.pdf.  </samp>
 
   
-📬 <samp>Contact</samp>
-
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:raimundojunior@on.br)
-[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oscarfilho84672b103)
+📬 <samp>Contact: </samp> [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:raimundooscarjr@gmail.com) [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oscarfilho84672b103)
 
 
 ## 🛠 <samp>Tools I use and study</samp>
