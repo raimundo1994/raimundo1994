@@ -7,7 +7,7 @@
    
 </p>
   </samp>
- 
+- 📄 <samp>Resume: </samp>  
 
   
 📬 <samp>Contact</samp>
