@@ -7,7 +7,7 @@
    
 </p>
   </samp>
-- 📄 <samp>Resume: </samp>  
+📄 <samp>Resume: https://github.com/raimundo1994/CV/blob/main/CV.pdf.  </samp>
 
   
 📬 <samp>Contact</samp>
