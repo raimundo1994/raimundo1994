@@ -2,7 +2,7 @@
 </h1>
 
 <p align="center">
-  <samp> Bachelor of earth sciences and geophysics, having worked in petrophysics, image processing and interpretation of geophysical, geoelectric survey profiles, seismology, programming language experience Python,MatLab,and LaTex. Currently postgraduate studies in geophysics at the National Observatory of Rio de Janeiro.
+  <samp> I  have  a  Bachelor's  degree  in  Earth  Sciences  and  Geophysics,  both  from  the  Federal  University  of Western Pará and currently doing a Master's degree in Geophysics from the National Observatory of Rio de Janeiro. I  have  solid  knowledge  in  data  processing  and  statistical  analysis,  using  advanced  tools  and techniques  to  extract  meaningful  insights  from  large  datasets.  I  have  advanced  skills  in  Python programming language, which allows me to develop customized solutions for data analysis, process automation and implementation of specific algorithms to solve complex problems.
 - 📄 A little about my academic career in the link beside (http://lattes.cnpq.br/5355013713549584).
    
 </p>
