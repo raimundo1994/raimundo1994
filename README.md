@@ -7,7 +7,7 @@
    
 </p>
   </samp>
-📄 <samp>Resume: https://github.com/raimundo1994/CV/blob/main/CV - RAIMUNDO OSCAR DE S. Jr.pdf.  </samp>
+📄 <samp>Resume: https://github.com/raimundo1994/CV/blob/main/CV-RAIMUNDO OSCAR DE S. Jr.pdf.  </samp>
 
   
 📬 <samp>Contact: </samp> [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:raimundooscarjr@gmail.com) [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oscarfilho84672b103)
